@@ -16,3 +16,7 @@ statistical modeling, machine learning, and data-driven problem solving.
 ## 📊 Interests
 - Applied statistics & regression
 - Machine learning & evaluation
+  
+##⚡Work Experience
+Data Science Research Assistant - Recurrent Neural Networks
+WebGenomics - Web Development in Biomedical Informatics
