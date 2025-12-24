@@ -9,7 +9,7 @@ statistical modeling, machine learning, and data-driven problem solving.
 - End-to-end data science workflows (cleaning, modeling, evaluation, interpretation)
 
 ## 🧰 Tools & Technologies
-- **Languages:** Python, SQL, Java, C/C++
+- **Languages:** Python, SQL, Java, C
 - **Data & ML:** pandas, NumPy, scikit-learn, statsmodels
 - **Systems & Tools:** Git, Linux
 
