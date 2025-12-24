@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hey, I'm Brian 🫡
 
-<!--
-**Brian16Park/Brian16Park** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a graduate student passionate about data science, with a strong interest in
+statistical modeling, machine learning, and data-driven problem solving.
 
-Here are some ideas to get you started:
+## 🔍 What I'm working on
+- Data analysis and modeling projects using real-world datasets
+- Coursework and experiments in statistics, machine learning, and algorithms
+- End-to-end data science workflows (cleaning, modeling, evaluation, interpretation)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tools & Technologies
+- **Languages:** Python, SQL, Java, C/C++
+- **Data & ML:** pandas, NumPy, scikit-learn, statsmodels
+- **Systems & Tools:** Git, Linux
+
+## 📊 Interests
+- Applied statistics & regression
+- Machine learning & evaluation
